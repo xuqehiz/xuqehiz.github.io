@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://xuqehiz.github.io/sitemap.xml
